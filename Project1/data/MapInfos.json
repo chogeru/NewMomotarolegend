@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"犬村","order":1,"parentId":0,"scrollX":911.2,"scrollY":495.6},
+{"id":1,"expanded":true,"name":"犬村","order":1,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":2,"expanded":true,"name":"主人公家","order":3,"parentId":0,"scrollX":911.2,"scrollY":495.6},
 {"id":3,"expanded":true,"name":"雉村","order":2,"parentId":0,"scrollX":911.2,"scrollY":495.6},
-{"id":4,"expanded":false,"name":"OPムービー","order":6,"parentId":0,"scrollX":911.2,"scrollY":495.6},
+{"id":4,"expanded":false,"name":"OPムービー","order":6,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":5,"expanded":false,"name":"イベント用マップ","order":4,"parentId":0,"scrollX":911.2,"scrollY":495.6},
 {"id":6,"expanded":true,"name":"吉備の里","order":5,"parentId":0,"scrollX":911.2,"scrollY":495.6},
 {"id":7,"expanded":true,"name":"鬼ノ城","order":7,"parentId":0,"scrollX":911.2,"scrollY":495.6},
