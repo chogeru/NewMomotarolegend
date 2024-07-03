@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"482","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"イサセリヒコ","traits":[],"initialLevel":1,"maxLevel":99,"name":"イサセリヒコ","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":1,"characterName":"3b2e4f38c8aad9e8_transparent","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ジーンズ鬼","traits":[],"initialLevel":1,"maxLevel":99,"name":"犬飼","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"48","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ジーンズ鬼","traits":[],"initialLevel":1,"maxLevel":99,"name":"ザブロ","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":5,"characterName":"Monster","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"空手家","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
